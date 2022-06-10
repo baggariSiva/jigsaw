@@ -4,7 +4,7 @@ config:
   framework: "Jigsaw"
   buildCommand: "vendor/bin/jigsaw build production"
   buildDir: "build_production"
-  runCommand: "vendor/bin/jigsaw serve production --host=0.0.0.0 --port=8080"
+  runCommand: "vendor/bin/jigsaw serve production"
   installCommand: ''
 ports:
   - protocol: "HTTPS"
