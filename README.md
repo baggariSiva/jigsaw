@@ -2,7 +2,7 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/jigsaw"><img src="source\assets\images\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-
+This is a very basic example of a simple Jigsaw Blog Starter Template.
 
 <img src="source\assets\images\screenshot.png" alt="screenshot of the Jigsaw app" width="100%" />
 
