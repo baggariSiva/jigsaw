@@ -1,6 +1,6 @@
-# Jigsaw Blog starter on Elestio
+# Jigsaw using jigsaw init on Elestio
 
-This is a minimal example of a Jigsaw Blog starter template
+This is a minimal example of a Jigsaw Blog starter template create using jigsaw init blog
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
