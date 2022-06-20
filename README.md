@@ -1,6 +1,6 @@
-# Jigsaw using composer on Elestio
+# Jigsaw Blog starter on Elestio
 
-This is a minimal example of a Jigsaw Blog starter template.
+This is a minimal example of a Jigsaw Blog starter template
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
@@ -8,7 +8,7 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 
 <img src="source\assets\images\screenshot.png" alt="screenshot of the Jigsaw app" width="100%" />
 
-# Steps to clone this repository and run locally.
+# Steps to clone this repository and run locally
 
 
 ### Step 1: Clone this repository
@@ -41,6 +41,6 @@ npm run watch
 ```
 
 ### Step 6: Make some changes and push
-Try to make some change in your Jigsaw project and then push to the git repository.
+Try to make some change in your Jigsaw project and then push to the git repository
 
 After few seconds to few minutes your change will be deployed on your CI/CD target 🚀
