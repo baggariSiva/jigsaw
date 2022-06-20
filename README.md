@@ -14,7 +14,7 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 ### Step 1: Clone this repository
 
 ```
-git clone https://github.com/elestio-examples/jigsaw.git
+git clone YOUR_REPOSITORY_URL
 ```
 ### Step 2: Go to project folder
 
